@@ -1,0 +1,782 @@
+winner,loser,weight
+Florida Atlantic,Charlotte,30.0
+Florida State,Duquesne,40.0
+Illinois,Wyoming,32.0
+Nevada,New Mexico State,11.0
+Nevada-Las Vegas,Idaho State,31.0
+North Carolina,Florida A&M,32.0
+North Texas,Texas-El Paso,18.0
+Northwestern,Nebraska,3.0
+Utah State,Connecticut,11.0
+Vanderbilt,Hawaii,53.0
+Western Kentucky,Austin Peay,11.0
+Akron,St. Francis (PA),7.0
+Alabama-Birmingham,Alabama A&M,59.0
+Arizona State,Northern Arizona,37.0
+Central Florida,South Carolina State,46.0
+Florida International,Bryant,1.0
+Fresno State,Cal Poly,28.0
+Minnesota,New Mexico State,38.0
+Missouri,Louisiana Tech,28.0
+Northern Illinois,Eastern Illinois,7.0
+Oklahoma State,Central Michigan,14.0
+Penn State,Purdue,4.0
+Pittsburgh,West Virginia,7.0
+San Jose State,Portland State,4.0
+Tennessee,Ball State,49.0
+Toledo,Long Island,37.0
+Wake Forest,Virginia Military Institute,34.0
+Duke,Temple,30.0
+Eastern Michigan,Eastern Kentucky,8.0
+Indiana,Illinois,3.0
+Kansas,Tennessee Tech,46.0
+Michigan State,Western Michigan,22.0
+Old Dominion,Virginia Tech,3.0
+Texas Christian,Colorado,25.0
+William & Mary,Charlotte,17.0
+Air Force,Northern Iowa,31.0
+Alabama,Utah State,55.0
+Arizona,San Diego State,18.0
+Arkansas,Cincinnati,7.0
+Arkansas State,Grambling State,55.0
+Auburn,Mercer,26.0
+Baylor,Albany,59.0
+Brigham Young,South Florida,29.0
+California,California-Davis,21.0
+Coastal Carolina,Army,10.0
+Connecticut,Central Connecticut State,25.0
+Delaware,Navy,7.0
+Florida,Utah,3.0
+Georgia,Oregon,46.0
+Georgia Southern,Morgan State,52.0
+Houston,Texas-San Antonio,2.0
+Iowa,South Dakota State,4.0
+Iowa State,Southeast Missouri State,32.0
+James Madison,Middle Tennessee State,37.0
+Kansas State,South Dakota,34.0
+Kentucky,Miami (OH),24.0
+Liberty,Southern Mississippi,2.0
+Louisiana,Southeastern Louisiana,17.0
+Marshall,Norfolk State,52.0
+Maryland,Buffalo,21.0
+Miami (FL),Bethune-Cookman,57.0
+Michigan,Colorado State,44.0
+Mississippi,Troy,18.0
+Mississippi State,Memphis,26.0
+Nebraska,North Dakota,21.0
+Nevada,Texas State,24.0
+New Mexico,Maine,41.0
+North Carolina,Appalachian State,2.0
+North Carolina State,East Carolina,1.0
+Ohio,Florida Atlantic,3.0
+Ohio State,Notre Dame,11.0
+Oklahoma,Texas-El Paso,32.0
+Oregon State,Boise State,17.0
+Rutgers,Boston College,1.0
+South Alabama,Nicholls State,41.0
+South Carolina,Georgia State,21.0
+Southern California,Rice,52.0
+Southern Methodist,North Texas,38.0
+Stanford,Colgate,31.0
+Syracuse,Louisville,24.0
+Texas,Louisiana-Monroe,42.0
+Texas A&M,Sam Houston State,31.0
+Texas Tech,Murray State,53.0
+Tulane,Massachusetts,32.0
+UCLA,Bowling Green,28.0
+Vanderbilt,Elon,11.0
+Virginia,Richmond,17.0
+Washington,Kent State,25.0
+Washington State,Idaho,7.0
+Wisconsin,Illinois State,38.0
+Wyoming,Tulsa,3.0
+Florida State,Louisiana State,1.0
+Western Kentucky,Hawaii,32.0
+Clemson,Georgia Tech,31.0
+Boise State,New Mexico,17.0
+Louisville,Central Florida,6.0
+Air Force,Colorado,31.0
+Alabama,Texas,1.0
+Appalachian State,Texas A&M,3.0
+Arkansas,South Carolina,14.0
+Auburn,San Jose State,8.0
+Brigham Young,Baylor,6.0
+California,Nevada-Las Vegas,6.0
+Cincinnati,Kennesaw State,53.0
+Clemson,Furman,23.0
+Coastal Carolina,Gardner-Webb,4.0
+Duke,Northwestern,8.0
+East Carolina,Old Dominion,18.0
+Eastern Kentucky,Bowling Green,2.0
+Florida Atlantic,Southeastern Louisiana,33.0
+Georgia,Samford,33.0
+Georgia Southern,Nebraska,3.0
+Georgia Tech,Western Carolina,18.0
+Holy Cross,Buffalo,6.0
+Illinois,Virginia,21.0
+Incarnate Word,Nevada,14.0
+Indiana,Idaho,13.0
+Iowa State,Iowa,3.0
+James Madison,Norfolk State,56.0
+Kansas,West Virginia,13.0
+Kansas State,Missouri,28.0
+Kentucky,Florida,10.0
+Liberty,Alabama-Birmingham,7.0
+Louisiana,Eastern Michigan,28.0
+Louisiana State,Southern,48.0
+Louisiana Tech,Stephen F. Austin,35.0
+Louisiana-Monroe,Nicholls State,28.0
+Marshall,Notre Dame,5.0
+Maryland,Charlotte,35.0
+Memphis,Navy,24.0
+Miami (FL),Southern Mississippi,23.0
+Miami (OH),Robert Morris,17.0
+Michigan,Hawaii,46.0
+Michigan State,Akron,52.0
+Middle Tennessee State,Colorado State,15.0
+Minnesota,Western Illinois,52.0
+Mississippi,Central Arkansas,56.0
+Mississippi State,Arizona,22.0
+North Carolina,Georgia State,7.0
+North Carolina State,Charleston Southern,52.0
+North Texas,Texas Southern,32.0
+Ohio State,Arkansas State,33.0
+Oklahoma,Kent State,30.0
+Oklahoma State,Arizona State,17.0
+Oregon,Eastern Washington,56.0
+Oregon State,Fresno State,3.0
+Penn State,Ohio,36.0
+Purdue,Indiana State,56.0
+Rice,McNeese State,42.0
+Rutgers,Wagner,59.0
+San Diego State,Idaho State,31.0
+South Alabama,Central Michigan,14.0
+South Florida,Howard,22.0
+Southern California,Stanford,13.0
+Southern Methodist,Lamar,29.0
+Syracuse,Connecticut,34.0
+Temple,Lafayette,16.0
+Tennessee,Pittsburgh,7.0
+Texas Christian,Tarleton State,42.0
+Texas State,Florida International,29.0
+Texas Tech,Houston,3.0
+Texas-El Paso,New Mexico State,7.0
+Texas-San Antonio,Army,3.0
+Toledo,Massachusetts,45.0
+Troy,Alabama A&M,21.0
+Tulane,Alcorn State,52.0
+Tulsa,Northern Illinois,3.0
+UCLA,Alabama State,38.0
+Utah,Southern Utah,66.0
+Virginia Tech,Boston College,17.0
+Wake Forest,Vanderbilt,20.0
+Washington,Portland State,46.0
+Washington State,Wisconsin,3.0
+Weber State,Utah State,28.0
+Western Michigan,Ball State,7.0
+Wyoming,Northern Colorado,23.0
+Florida State,Louisville,4.0
+Wyoming,Air Force,3.0
+Alabama,Louisiana-Monroe,56.0
+Alabama-Birmingham,Georgia Southern,14.0
+Appalachian State,Troy,4.0
+Arizona,North Dakota State,3.0
+Arkansas,Missouri State,11.0
+Army,Villanova,39.0
+Ball State,Murray State,31.0
+Baylor,Texas State,35.0
+Boise State,Tennessee-Martin,23.0
+Boston College,Maine,21.0
+Bowling Green,Marshall,3.0
+Central Florida,Florida Atlantic,26.0
+Central Michigan,Bucknell,41.0
+Charlotte,Georgia State,1.0
+Cincinnati,Miami (OH),21.0
+Clemson,Louisiana Tech,28.0
+Coastal Carolina,Buffalo,12.0
+Duke,North Carolina A&T,29.0
+East Carolina,Campbell,39.0
+Eastern Michigan,Arizona State,9.0
+Florida,South Florida,3.0
+Georgia,South Carolina,41.0
+Indiana,Western Kentucky,3.0
+Iowa,Nevada,27.0
+Iowa State,Ohio,33.0
+Kansas,Houston,18.0
+Kent State,Long Island,53.0
+Kentucky,Youngstown State,31.0
+Louisiana State,Mississippi State,15.0
+Maryland,Southern Methodist,7.0
+Massachusetts,Stony Brook,17.0
+Memphis,Arkansas State,12.0
+Michigan,Connecticut,59.0
+Middle Tennessee State,Tennessee State,43.0
+Minnesota,Colorado,42.0
+Mississippi,Georgia Tech,42.0
+Missouri,Abilene Christian,17.0
+Nevada-Las Vegas,North Texas,31.0
+New Mexico,Texas-El Paso,17.0
+North Carolina State,Texas Tech,13.0
+Notre Dame,California,7.0
+Ohio State,Toledo,56.0
+Oklahoma,Nebraska,35.0
+Oklahoma State,Arkansas-Pine Bluff,56.0
+Oregon,Brigham Young,21.0
+Oregon State,Montana State,40.0
+Penn State,Auburn,29.0
+Pittsburgh,Western Michigan,21.0
+Rice,Louisiana,12.0
+Rutgers,Temple,2.0
+Southern California,Fresno State,28.0
+Southern Illinois,Northwestern,7.0
+Southern Mississippi,Northwestern State,54.0
+Syracuse,Purdue,3.0
+Tennessee,Akron,57.0
+Texas,Texas-San Antonio,21.0
+Texas A&M,Miami (FL),8.0
+Tulane,Kansas State,7.0
+Tulsa,Jacksonville State,37.0
+UCLA,South Alabama,1.0
+Utah,San Diego State,28.0
+Vanderbilt,Northern Illinois,10.0
+Virginia,Old Dominion,2.0
+Virginia Tech,Wofford,20.0
+Wake Forest,Liberty,1.0
+Washington,Michigan State,11.0
+Washington State,Colorado State,31.0
+West Virginia,Towson,58.0
+Wisconsin,New Mexico State,59.0
+Hawaii,Duquesne,10.0
+Coastal Carolina,Georgia State,17.0
+Illinois,Chattanooga,31.0
+West Virginia,Virginia Tech,23.0
+Air Force,Nevada,28.0
+Syracuse,Virginia,2.0
+Texas-El Paso,Boise State,17.0
+Alabama,Vanderbilt,52.0
+Auburn,Missouri,3.0
+Baylor,Iowa State,7.0
+Brigham Young,Wyoming,14.0
+Buffalo,Eastern Michigan,19.0
+California,Arizona,18.0
+Central Florida,Georgia Tech,17.0
+Cincinnati,Indiana,21.0
+Clemson,Wake Forest,6.0
+Florida State,Boston College,30.0
+Georgia,Kent State,17.0
+Georgia Southern,Ball State,11.0
+Houston,Rice,7.0
+Iowa,Rutgers,17.0
+James Madison,Appalachian State,4.0
+Kansas,Duke,8.0
+Kansas State,Oklahoma,7.0
+Kentucky,Northern Illinois,8.0
+Liberty,Akron,9.0
+Louisiana State,New Mexico,38.0
+Louisiana-Monroe,Louisiana,4.0
+Louisville,South Florida,38.0
+Memphis,North Texas,10.0
+Miami (OH),Northwestern,3.0
+Michigan,Maryland,7.0
+Middle Tennessee State,Miami (FL),14.0
+Minnesota,Michigan State,27.0
+Mississippi,Tulsa,8.0
+Mississippi State,Bowling Green,31.0
+Navy,East Carolina,3.0
+Nevada-Las Vegas,Utah State,10.0
+New Mexico State,Hawaii,19.0
+North Carolina State,Connecticut,31.0
+Notre Dame,North Carolina,13.0
+Ohio,Fordham,7.0
+Ohio State,Wisconsin,31.0
+Old Dominion,Arkansas State,3.0
+Oregon,Washington State,3.0
+Penn State,Central Michigan,19.0
+Pittsburgh,Rhode Island,21.0
+Purdue,Florida Atlantic,2.0
+Sacramento State,Colorado State,31.0
+San Diego State,Toledo,3.0
+San Jose State,Western Michigan,28.0
+South Alabama,Louisiana Tech,24.0
+South Carolina,Charlotte,36.0
+Southern California,Oregon State,3.0
+Southern Mississippi,Tulane,3.0
+Temple,Massachusetts,28.0
+Tennessee,Florida,5.0
+Texas A&M,Arkansas,2.0
+Texas Christian,Southern Methodist,8.0
+Texas State,Houston Baptist,34.0
+Texas Tech,Texas,3.0
+Texas-San Antonio,Texas Southern,28.0
+Troy,Marshall,9.0
+UCLA,Colorado,28.0
+Utah,Arizona State,21.0
+Washington,Stanford,18.0
+Western Kentucky,Florida International,73.0
+Brigham Young,Utah State,12.0
+South Carolina,South Carolina State,40.0
+Boise State,San Diego State,22.0
+Nevada-Las Vegas,New Mexico,11.0
+Texas-San Antonio,Middle Tennessee State,15.0
+Tulane,Houston,3.0
+UCLA,Washington,8.0
+Air Force,Navy,3.0
+Alabama,Arkansas,23.0
+Appalachian State,Citadel,49.0
+Arizona,Colorado,23.0
+Arkansas State,Louisiana-Monroe,17.0
+Ball State,Northern Illinois,6.0
+Boston College,Louisville,1.0
+Bowling Green,Akron,3.0
+Buffalo,Miami (OH),4.0
+Cincinnati,Tulsa,10.0
+Clemson,North Carolina State,10.0
+Coastal Carolina,Georgia Southern,4.0
+Connecticut,Fresno State,5.0
+Duke,Virginia,21.0
+East Carolina,South Florida,20.0
+Eastern Michigan,Massachusetts,7.0
+Florida International,New Mexico State,14.0
+Georgia,Missouri,4.0
+Georgia State,Army,17.0
+Georgia Tech,Pittsburgh,5.0
+Illinois,Wisconsin,24.0
+James Madison,Texas State,27.0
+Kansas,Iowa State,3.0
+Kansas State,Texas Tech,9.0
+Kent State,Ohio,7.0
+Liberty,Old Dominion,14.0
+Louisiana State,Auburn,4.0
+Marshall,Gardner-Webb,21.0
+Maryland,Michigan State,14.0
+Memphis,Temple,21.0
+Michigan,Iowa,13.0
+Mississippi,Kentucky,3.0
+Mississippi State,Texas A&M,18.0
+Nebraska,Indiana,14.0
+North Carolina,Virginia Tech,31.0
+North Texas,Florida Atlantic,17.0
+Ohio State,Rutgers,39.0
+Oklahoma State,Baylor,11.0
+Oregon,Stanford,18.0
+Penn State,Northwestern,10.0
+Purdue,Minnesota,10.0
+Rice,Alabama-Birmingham,4.0
+San Jose State,Wyoming,17.0
+South Alabama,Louisiana,3.0
+Southern California,Arizona State,17.0
+Syracuse,Wagner,59.0
+Texas,West Virginia,18.0
+Texas Christian,Oklahoma,31.0
+Texas-El Paso,Charlotte,6.0
+Toledo,Central Michigan,21.0
+Troy,Western Kentucky,7.0
+Utah,Oregon State,26.0
+Wake Forest,Florida State,10.0
+Washington State,California,19.0
+Western Michigan,New Hampshire,37.0
+Florida,Eastern Washington,35.0
+Central Florida,Southern Methodist,22.0
+Colorado State,Nevada,3.0
+Houston,Memphis,1.0
+Nebraska,Rutgers,1.0
+San Jose State,Nevada-Las Vegas,33.0
+Alabama,Texas A&M,4.0
+Alabama-Birmingham,Middle Tennessee State,27.0
+Arizona State,Washington,7.0
+Ball State,Central Michigan,1.0
+Boise State,Fresno State,20.0
+Buffalo,Bowling Green,31.0
+Cincinnati,South Florida,4.0
+Clemson,Boston College,28.0
+Coastal Carolina,Louisiana-Monroe,7.0
+Connecticut,Florida International,21.0
+Eastern Michigan,Western Michigan,22.0
+Florida,Missouri,7.0
+Georgia,Auburn,32.0
+Georgia State,Georgia Southern,8.0
+Georgia Tech,Duke,3.0
+Illinois,Iowa,3.0
+James Madison,Arkansas State,22.0
+Kansas State,Iowa State,1.0
+Liberty,Massachusetts,18.0
+Louisiana Tech,Texas-El Paso,10.0
+Louisville,Virginia,17.0
+Miami (OH),Kent State,3.0
+Michigan,Indiana,21.0
+Mississippi,Vanderbilt,24.0
+Mississippi State,Arkansas,23.0
+Navy,Tulsa,32.0
+North Carolina,Miami (FL),3.0
+North Carolina State,Florida State,2.0
+Notre Dame,Brigham Young,8.0
+Ohio,Akron,21.0
+Ohio State,Michigan State,29.0
+Oklahoma State,Texas Tech,10.0
+Oregon,Arizona,27.0
+Oregon State,Stanford,1.0
+Pittsburgh,Virginia Tech,16.0
+Purdue,Maryland,2.0
+San Diego State,Hawaii,2.0
+South Carolina,Kentucky,10.0
+Southern California,Washington State,16.0
+Tennessee,Louisiana State,27.0
+Texas,Oklahoma,49.0
+Texas Christian,Kansas,7.0
+Texas State,Appalachian State,12.0
+Texas-San Antonio,Western Kentucky,3.0
+Toledo,Northern Illinois,20.0
+Troy,Southern Mississippi,17.0
+Tulane,East Carolina,15.0
+UCLA,Utah,10.0
+Utah State,Air Force,7.0
+Wake Forest,Army,35.0
+Wisconsin,Northwestern,35.0
+Wyoming,New Mexico,13.0
+Louisiana,Marshall,10.0
+Central Florida,Temple,57.0
+West Virginia,Baylor,3.0
+Southern Methodist,Navy,6.0
+Texas-San Antonio,Florida International,20.0
+Air Force,Nevada-Las Vegas,35.0
+Alabama-Birmingham,Charlotte,14.0
+Arkansas,Brigham Young,17.0
+Army,Colgate,25.0
+Ball State,Connecticut,4.0
+Bowling Green,Miami (OH),4.0
+Buffalo,Massachusetts,27.0
+Central Michigan,Akron,7.0
+Clemson,Florida State,6.0
+Colorado,California,7.0
+East Carolina,Memphis,2.0
+Florida Atlantic,Rice,3.0
+Fresno State,San Jose State,7.0
+Georgia,Vanderbilt,55.0
+Georgia Southern,James Madison,7.0
+Hawaii,Nevada,15.0
+Illinois,Minnesota,12.0
+Kentucky,Mississippi State,10.0
+Liberty,Gardner-Webb,1.0
+Louisiana State,Florida,10.0
+Maryland,Indiana,5.0
+Miami (FL),Virginia Tech,6.0
+Michigan,Penn State,24.0
+Michigan State,Wisconsin,6.0
+Mississippi,Auburn,14.0
+New Mexico State,New Mexico,12.0
+North Carolina,Duke,3.0
+North Texas,Louisiana Tech,20.0
+Northern Illinois,Eastern Michigan,29.0
+Ohio,Western Michigan,19.0
+Oklahoma,Kansas,10.0
+Old Dominion,Coastal Carolina,28.0
+Oregon State,Washington State,14.0
+Purdue,Nebraska,6.0
+South Alabama,Louisiana-Monroe,7.0
+Southern Mississippi,Arkansas State,1.0
+Stanford,Notre Dame,2.0
+Syracuse,North Carolina State,15.0
+Tennessee,Alabama,3.0
+Texas,Iowa State,3.0
+Texas Christian,Oklahoma State,3.0
+Toledo,Kent State,21.0
+Troy,Texas State,3.0
+Tulane,South Florida,14.0
+Utah,Southern California,1.0
+Utah State,Colorado State,4.0
+Washington,Arizona,10.0
+Western Kentucky,Middle Tennessee State,18.0
+Appalachian State,Georgia State,25.0
+Troy,South Alabama,4.0
+Virginia,Georgia Tech,7.0
+Tulsa,Temple,11.0
+Western Kentucky,Alabama-Birmingham,3.0
+Alabama,Mississippi State,24.0
+Army,Louisiana-Monroe,24.0
+Baylor,Kansas,12.0
+Boise State,Air Force,5.0
+Bowling Green,Central Michigan,16.0
+Buffalo,Toledo,7.0
+Cincinnati,Southern Methodist,2.0
+Clemson,Syracuse,6.0
+Colorado State,Hawaii,4.0
+Duke,Miami (FL),24.0
+East Carolina,Central Florida,21.0
+Eastern Michigan,Ball State,4.0
+Florida International,Charlotte,19.0
+Fresno State,New Mexico,32.0
+Georgia Southern,Old Dominion,5.0
+Houston,Navy,18.0
+Kent State,Akron,6.0
+Liberty,Brigham Young,27.0
+Louisiana,Arkansas State,20.0
+Louisiana State,Mississippi,25.0
+Louisville,Pittsburgh,14.0
+Marshall,James Madison,14.0
+Maryland,Northwestern,7.0
+Missouri,Vanderbilt,3.0
+Notre Dame,Nevada-Las Vegas,23.0
+Ohio,Northern Illinois,7.0
+Ohio State,Iowa,44.0
+Oklahoma State,Texas,7.0
+Oregon,UCLA,15.0
+Oregon State,Colorado,33.0
+Penn State,Minnesota,28.0
+Rice,Louisiana Tech,1.0
+Rutgers,Indiana,7.0
+San Diego State,Nevada,16.0
+San Jose State,New Mexico State,0.0
+South Carolina,Texas A&M,6.0
+Southern Mississippi,Texas State,6.0
+Stanford,Arizona State,1.0
+Tennessee,Tennessee-Martin,41.0
+Texas Christian,Kansas State,10.0
+Texas Tech,West Virginia,38.0
+Texas-El Paso,Florida Atlantic,3.0
+Texas-San Antonio,North Texas,4.0
+Tulane,Memphis,10.0
+Wake Forest,Boston College,28.0
+Washington,California,7.0
+Western Michigan,Miami (OH),6.0
+Wisconsin,Purdue,11.0
+Wyoming,Utah State,14.0
+North Carolina State,Virginia Tech,1.0
+Southern Mississippi,Louisiana,15.0
+Utah,Washington State,4.0
+East Carolina,Brigham Young,3.0
+Florida International,Louisiana Tech,8.0
+Appalachian State,Robert Morris,39.0
+Arizona State,Colorado,8.0
+Arkansas,Auburn,14.0
+Baylor,Texas Tech,28.0
+Boise State,Colorado State,39.0
+Central Florida,Cincinnati,4.0
+Charlotte,Rice,33.0
+Coastal Carolina,Marshall,11.0
+Connecticut,Boston College,10.0
+Florida Atlantic,Alabama-Birmingham,7.0
+Florida State,Georgia Tech,25.0
+Fresno State,San Diego State,4.0
+Georgia,Florida,22.0
+Georgia State,Old Dominion,14.0
+Houston,South Florida,15.0
+Illinois,Nebraska,17.0
+Iowa,Northwestern,20.0
+Kansas State,Oklahoma State,48.0
+Louisville,Wake Forest,27.0
+Miami (FL),Virginia,2.0
+Miami (OH),Akron,18.0
+Michigan,Michigan State,22.0
+Middle Tennessee State,Texas-El Paso,11.0
+Minnesota,Rutgers,31.0
+Mississippi,Texas A&M,3.0
+Missouri,South Carolina,13.0
+Navy,Temple,7.0
+New Mexico State,Massachusetts,10.0
+North Carolina,Pittsburgh,18.0
+North Texas,Western Kentucky,27.0
+Notre Dame,Syracuse,17.0
+Ohio State,Penn State,13.0
+Oklahoma,Iowa State,14.0
+Oregon,California,18.0
+San Jose State,Nevada,7.0
+South Alabama,Arkansas State,28.0
+Southern California,Arizona,8.0
+Southern Methodist,Tulsa,11.0
+Tennessee,Kentucky,38.0
+Texas Christian,West Virginia,10.0
+Toledo,Eastern Michigan,3.0
+UCLA,Stanford,25.0
+Wyoming,Hawaii,7.0
+Ball State,Kent State,7.0
+Ohio,Buffalo,21.0
+Bowling Green,Western Michigan,4.0
+Central Michigan,Northern Illinois,13.0
+Coastal Carolina,Appalachian State,7.0
+Rice,Texas-El Paso,7.0
+Connecticut,Massachusetts,17.0
+Duke,Boston College,7.0
+Washington,Oregon State,3.0
+Air Force,Army,6.0
+Baylor,Oklahoma,3.0
+Brigham Young,Boise State,3.0
+Central Florida,Memphis,7.0
+Cincinnati,Navy,10.0
+Florida,Texas A&M,17.0
+Florida State,Miami (FL),42.0
+Fresno State,Hawaii,42.0
+Georgia,Tennessee,14.0
+Georgia State,Southern Mississippi,28.0
+Georgia Tech,Virginia Tech,1.0
+Iowa,Purdue,21.0
+Iowa State,West Virginia,17.0
+Kansas,Oklahoma State,21.0
+Kentucky,Missouri,4.0
+Liberty,Arkansas,2.0
+Louisiana State,Alabama,1.0
+Louisiana Tech,Middle Tennessee State,16.0
+Louisiana-Monroe,Texas State,1.0
+Louisville,James Madison,24.0
+Marshall,Old Dominion,12.0
+Michigan,Rutgers,35.0
+Michigan State,Illinois,8.0
+Minnesota,Nebraska,7.0
+Mississippi State,Auburn,6.0
+North Carolina,Virginia,3.0
+North Carolina State,Wake Forest,9.0
+North Texas,Florida International,38.0
+Notre Dame,Clemson,21.0
+Ohio State,Northwestern,14.0
+Oregon,Colorado,39.0
+Penn State,Indiana,31.0
+Pittsburgh,Syracuse,10.0
+San Diego State,Nevada-Las Vegas,4.0
+San Jose State,Colorado State,12.0
+South Alabama,Georgia Southern,7.0
+South Carolina,Vanderbilt,11.0
+Southern California,California,6.0
+Southern Methodist,Houston,14.0
+Temple,South Florida,26.0
+Texas,Kansas State,7.0
+Texas Christian,Texas Tech,10.0
+Texas-San Antonio,Alabama-Birmingham,6.0
+Troy,Louisiana,6.0
+Tulane,Tulsa,14.0
+UCLA,Arizona State,14.0
+Utah,Arizona,25.0
+Utah State,New Mexico,17.0
+Washington State,Stanford,38.0
+Western Kentucky,Charlotte,52.0
+Wisconsin,Maryland,13.0
+Eastern Michigan,Akron,6.0
+Ohio,Miami (OH),16.0
+Toledo,Ball State,7.0
+Central Michigan,Buffalo,4.0
+Kent State,Bowling Green,34.0
+Northern Illinois,Western Michigan,3.0
+Louisiana,Georgia Southern,19.0
+Memphis,Tulsa,16.0
+Cincinnati,East Carolina,2.0
+Fresno State,Nevada-Las Vegas,7.0
+Southern California,Colorado,34.0
+Air Force,New Mexico,32.0
+Alabama,Mississippi,6.0
+Alabama-Birmingham,North Texas,20.0
+Arizona,UCLA,6.0
+Arkansas State,Massachusetts,2.0
+Auburn,Texas A&M,3.0
+Boise State,Nevada,38.0
+Boston College,North Carolina State,1.0
+Central Florida,Tulane,7.0
+Clemson,Louisville,15.0
+Coastal Carolina,Southern Mississippi,3.0
+Connecticut,Liberty,3.0
+Duke,Virginia Tech,17.0
+Florida,South Carolina,32.0
+Florida Atlantic,Florida International,45.0
+Florida State,Syracuse,35.0
+Georgia,Mississippi State,26.0
+Houston,Temple,7.0
+Iowa,Wisconsin,14.0
+James Madison,Old Dominion,34.0
+Kansas State,Baylor,28.0
+Louisiana State,Arkansas,3.0
+Louisiana-Monroe,Georgia State,3.0
+Marshall,Appalachian State,7.0
+Miami (FL),Georgia Tech,21.0
+Michigan,Nebraska,31.0
+Michigan State,Rutgers,6.0
+Middle Tennessee State,Charlotte,10.0
+Minnesota,Northwestern,28.0
+New Mexico State,Lamar,37.0
+North Carolina,Wake Forest,2.0
+Notre Dame,Navy,3.0
+Ohio State,Indiana,42.0
+Oklahoma State,Iowa State,6.0
+Oregon State,California,28.0
+Penn State,Maryland,30.0
+Pittsburgh,Virginia,24.0
+Purdue,Illinois,7.0
+San Diego State,San Jose State,16.0
+South Alabama,Texas State,17.0
+Southern Methodist,South Florida,18.0
+Tennessee,Missouri,42.0
+Texas Christian,Texas,7.0
+Texas Tech,Kansas,15.0
+Texas-San Antonio,Louisiana Tech,44.0
+Troy,Army,1.0
+Utah,Stanford,35.0
+Utah State,Hawaii,7.0
+Vanderbilt,Kentucky,3.0
+Washington,Oregon,3.0
+Washington State,Arizona State,10.0
+West Virginia,Oklahoma,3.0
+Western Kentucky,Rice,35.0
+Wyoming,Colorado State,1.0
+Bowling Green,Toledo,7.0
+Ohio,Ball State,14.0
+Eastern Michigan,Kent State,7.0
+Miami (OH),Northern Illinois,6.0
+Western Michigan,Central Michigan,2.0
+Tulane,Southern Methodist,35.0
+San Diego State,New Mexico,24.0
+Tulsa,South Florida,6.0
+Air Force,Colorado State,12.0
+Akron,Buffalo,0.0
+Alabama,Austin Peay,34.0
+Appalachian State,Old Dominion,13.0
+Arkansas,Mississippi,15.0
+Army,Connecticut,17.0
+Auburn,Western Kentucky,24.0
+Boise State,Wyoming,3.0
+Brigham Young,Utah Tech,26.0
+California,Stanford,7.0
+Charlotte,Louisiana Tech,5.0
+Cincinnati,Temple,20.0
+Clemson,Miami (FL),30.0
+Coastal Carolina,Virginia,0.0
+Florida State,Louisiana,32.0
+Fresno State,Nevada,27.0
+Georgia,Kentucky,10.0
+Georgia Tech,North Carolina,4.0
+Hawaii,Nevada-Las Vegas,6.0
+Houston,East Carolina,39.0
+Indiana,Michigan State,8.0
+Iowa,Minnesota,3.0
+James Madison,Georgia State,2.0
+Kansas State,West Virginia,17.0
+Louisiana State,Alabama-Birmingham,31.0
+Louisville,North Carolina State,15.0
+Marshall,Georgia Southern,13.0
+Memphis,North Alabama,59.0
+Michigan,Illinois,2.0
+Middle Tennessee State,Florida Atlantic,28.0
+Mississippi State,East Tennessee State,49.0
+Missouri,New Mexico State,31.0
+Navy,Central Florida,3.0
+Notre Dame,Boston College,44.0
+Ohio State,Maryland,13.0
+Oklahoma,Oklahoma State,15.0
+Oregon,Utah,3.0
+Oregon State,Arizona State,24.0
+Penn State,Rutgers,45.0
+Pittsburgh,Duke,2.0
+Purdue,Northwestern,8.0
+South Alabama,Southern Mississippi,7.0
+South Carolina,Tennessee,25.0
+Southern California,UCLA,3.0
+Texas,Kansas,41.0
+Texas A&M,Massachusetts,17.0
+Texas Christian,Baylor,1.0
+Texas State,Arkansas State,3.0
+Texas Tech,Iowa State,4.0
+Texas-El Paso,Florida International,34.0
+Texas-San Antonio,Rice,34.0
+Troy,Louisiana-Monroe,18.0
+Utah State,San Jose State,4.0
+Vanderbilt,Florida,7.0
+Virginia Tech,Liberty,1.0
+Wake Forest,Syracuse,10.0
+Washington,Colorado,47.0
+Washington State,Arizona,11.0
+Wisconsin,Nebraska,1.0
