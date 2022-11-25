@@ -1,4 +1,4 @@
-# CFB_Rankings
+# CFB Rankings
 
 Algorithms for ranking college football teams using math and graphs
 
